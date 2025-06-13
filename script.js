@@ -11,7 +11,7 @@ moon.addEventListener("click", rotate);
 function rotate() {
   if (
     text.innerHTML ==
-      "coba klik matahari nya deh, kamu pasti kagum hehe" ||
+      "klik matahari nya nia" ||
     scene >= 44
   ) {
     rotation = rotation + 0.5;
