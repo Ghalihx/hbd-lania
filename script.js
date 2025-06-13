@@ -231,7 +231,7 @@ content.addEventListener("click", function () {
     text.innerHTML =
       "Aku Senang Bisa bertemu kamu, Kamu Seseorang yang spesial buat aku";
   } else if (scene == 42) {
-    text.innerHTML = "aku punya sesuatu lagi buat kamu kak";
+    text.innerHTML = "aku punya sesuatu lagi buat kamu";
   } else if (scene == 43) {
     let count = 1;
     const actionInterval = setInterval(function () {
@@ -242,7 +242,7 @@ content.addEventListener("click", function () {
           "fade 1s alternate forwards";
       } else if (count == -2) {
         text.style.animation = "fade 1s linear";
-        text.innerHTML = "and here are the fireflies";
+        text.innerHTML = "tap nia";
       }
       count--;
     }, 1000);
