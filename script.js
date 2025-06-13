@@ -109,10 +109,10 @@ content.addEventListener("click", function () {
     text.innerHTML = "jadi nanti nia tungguin aja sampai malam ya wkwk";
   } else if (scene == 11) {
     text.innerHTML =
-      "hahaha bercanda ihh jangan ngambek ya, ini aku sulap deh biar cepat jadi malam";
+      "hahaha bercanda jangan ngambek ya, ini aku sulap deh biar cepat jadi malam";
   } else if (scene == 12) {
     text.innerHTML =
-      "sinii, aku kasih kekuatan jempolnya buat muterin langit kaya moon knight";
+      "sinii, aku kasih kekuatan jempolnya buat muterin langit";
   } else if (scene == 13) {
     text.innerHTML = "coba klik mataharinya deh, aku jamin nia bakal kagum🤣";
   } else if (scene == 14 && day == "night") {
@@ -128,7 +128,7 @@ content.addEventListener("click", function () {
     }, 500);
   } else if (scene >= 14 && scene <= 43 && day != "night") {
     scene = 13;
-    text.innerHTML = "coba klik matahari nya deh, aku jamin nia bakal kagum";
+    text.innerHTML = "klik matahari nya nia";
   } else if (scene == 15) {
     text.innerHTML = "this is a glowing tree too";
     text.style.transitionDelay = "0s";
@@ -177,9 +177,9 @@ content.addEventListener("click", function () {
   } else if (scene == 23) {
     text.style.fontSize = "18px";
     text.style.top = "23%";
-    text.innerHTML = "Selamat Happy Birthday, Sehat Selalu ya nia";
+    text.innerHTML = "Selamat Happy Birthday, Sehat Selalu Lania❤️";
   } else if (scene == 24) {
-    text.innerHTML = "Maafin aku yang banyak salah sama nia yaa";
+    text.innerHTML = "Nia jangan sedih sedih terus";
   } else if (scene == 25) {
     text.innerHTML = "kado nya ini aku kasih 500 bintang aja ya...";
   } else if (scene == 26) {
@@ -249,6 +249,6 @@ content.addEventListener("click", function () {
   } else if (scene == 44) {
     text.innerHTML = "tap aja pokoknya";
   } else if (scene >= 46) {
-    window.location.href = "https://wipinn.wixsite.com/for-kakisti";
+    window.location.href = "https://gifft.me/o/d/2jnu182zynwmjtpctcyjgq3z";
   }
 });
