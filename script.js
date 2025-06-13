@@ -140,7 +140,7 @@ content.addEventListener("click", function () {
     text.innerHTML = "langitnya juga sepi kaya aku kalau nianya lagi sibuk :D";
   } else if (scene == 19) {
     text.innerHTML =
-      "aku ingat kamu pernah bilang kalo lania suka yang parsel parsel gitu";
+      "aku ingat kamu pernah bilang kalo lania suka yang pastel2 gitu";
   } else if (scene == 20) {
     text.innerHTML = "jadi, untuk sekarang aku mau buat nia jadi suka yang banyak warna ini juga, let me shiow u how magical this night would be";
   } else if (scene == 21) {
