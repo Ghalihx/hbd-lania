@@ -85,17 +85,17 @@ content.addEventListener("click", function () {
 
     cover.style.animation = "fadeout 1s alternate forwards";
   } else if (scene == 1) {
-    text.innerHTML = "pohonnya bagus ngga nia?(kalau menurut ku sih cantik banget)";
+    text.innerHTML = "pohonnya bagus ngga nia?";
     cover.style.zIndex = "-98";
   } else if (scene == 2) {
     text.innerHTML = "berwarna gituuuu ya hehe";
   } else if (scene == 3) {
     text.innerHTML = "yang warna warni itu ceritanya buahnya :D";
   } else if (scene == 4) {
-    text.innerHTML = "Pohonnya berdiri sendiri";
+    text.innerHTML = "Nanti kalau mau aku ambilkn(hehe)";
   } else if (scene == 5) {
     text.innerHTML =
-      "daunnya juga warna warni";
+      "btw Cantik kan";
   } else if (scene == 6) {
     text.innerHTML = "abstrak gitu ya mwehehe";
   } else if (scene == 7) {
@@ -242,7 +242,7 @@ content.addEventListener("click", function () {
           "fade 1s alternate forwards";
       } else if (count == -2) {
         text.style.animation = "fade 1s linear";
-        text.innerHTML = "tap nia";
+        text.innerHTML = "tap nia ada kunang2 juga";
       }
       count--;
     }, 1000);
